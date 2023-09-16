@@ -1,0 +1,7 @@
+C:\Users\motyn\OneDrive\Рабочий стол\my_project\LaboratoryWork1(12.09.23)\LaboratoryWork1(12.09.23)\obj\Debug\LaboratoryWork1(12.09.23).csproj.AssemblyReference.cache
+C:\Users\motyn\OneDrive\Рабочий стол\my_project\LaboratoryWork1(12.09.23)\LaboratoryWork1(12.09.23)\obj\Debug\LaboratoryWork1(12.09.23).csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\my_project\LaboratoryWork1(12.09.23)\LaboratoryWork1(12.09.23)\bin\Debug\LaboratoryWork1(12.09.23).exe.config
+C:\Users\motyn\OneDrive\Рабочий стол\my_project\LaboratoryWork1(12.09.23)\LaboratoryWork1(12.09.23)\bin\Debug\LaboratoryWork1(12.09.23).exe
+C:\Users\motyn\OneDrive\Рабочий стол\my_project\LaboratoryWork1(12.09.23)\LaboratoryWork1(12.09.23)\bin\Debug\LaboratoryWork1(12.09.23).pdb
+C:\Users\motyn\OneDrive\Рабочий стол\my_project\LaboratoryWork1(12.09.23)\LaboratoryWork1(12.09.23)\obj\Debug\LaboratoryWork1(12.09.23).exe
+C:\Users\motyn\OneDrive\Рабочий стол\my_project\LaboratoryWork1(12.09.23)\LaboratoryWork1(12.09.23)\obj\Debug\LaboratoryWork1(12.09.23).pdb
