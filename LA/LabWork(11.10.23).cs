@@ -112,25 +112,33 @@ namespace labWork_11._10._23_
         static void Third(int n)
         {
             int[] array = new int[n];
+            int result = 0;
 
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
                 int input = Convert.ToInt32(Console.ReadLine());
-                array[i - 1] = input;
+                array[i] = input;
 
                 if (input % 2 != 0)
                 {
-                    int num = (input / 10);
-                    int rem1 = input % 10;
-                    int rem2 = num % 10;
-                    int sum = rem1 + rem2;
-                    array[i - 1] = sum;
-                    if (array[i - 1] < 0)
+                    while (input > 0)
                     {
-                        array[i-1] *= -1;
+                        result += input % 10;
+                        input /= 10;
+                    }
+                    while (input < 0)
+                    {
+                        result += input % 10;
+                        input /= 10;
                     }
                 }
-                Console.WriteLine(array[i - 1]);
+                if (result < 0)
+                {
+                    result *= -1;
+                }
+                Console.WriteLine(result);
+
+                result = 0;
             }
         }
 
