@@ -125,7 +125,10 @@ namespace labWork_11._10._23_
                     int rem2 = num % 10;
                     int sum = rem1 + rem2;
                     array[i - 1] = sum;
-
+                    if (array[i - 1] < 0)
+                    {
+                        array[i-1] *= -1;
+                    }
                 }
                 Console.WriteLine(array[i - 1]);
             }
