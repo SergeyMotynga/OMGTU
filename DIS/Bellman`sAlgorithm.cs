@@ -103,7 +103,7 @@ namespace Bellman_sAlgorithm
                     if (i == n) res = checkingOfNegativeCycle(result, check);
                 }
             }
-            if (res == true)
+            if (res == false)
             {
                 Console.Write("Ответ: ");
                 for (int i = 1; i <= n; i++)
