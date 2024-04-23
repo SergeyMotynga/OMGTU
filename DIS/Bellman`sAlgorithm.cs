@@ -75,9 +75,9 @@ namespace Bellman_sAlgorithm
             result[number] = 0;
             bool res = true;
             int[] S = new int[n + 1];
+            int[] check = new int[n + 1];
             for (int i = 1; i <= n; i++)
             {
-                int[] check = new int[n + 1];
                 for (int j = 1; j <= n; j++)
                 {
                     if (result[j] == inf) continue;
@@ -93,15 +93,14 @@ namespace Bellman_sAlgorithm
                             result[k] = Math.Min(result[k], (result[j] + S[k]));
                         }
                     }
-                    if (i == (n - 1))
-                    {
-                        for (int k = 1; k <= n; ++k)
-                        {
-                            check[k] = result[k];
-                        }
-                    }
-                    if (i == n) res = checkingOfNegativeCycle(result, check);
                 }
+                if (i == (n - 1))
+                {
+                    for (int k = 1; k <= n; ++k)
+                    {
+                        check[k] = result[k];                        }
+                    }
+                 if (i == n) res = checkingOfNegativeCycle(result, check);
             }
             if (res == true)
             {
