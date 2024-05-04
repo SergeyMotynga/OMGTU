@@ -1,5 +1,0 @@
-DUST aa
-FIRE 1
-WATER 2
-MIX 3
-DUST 4
