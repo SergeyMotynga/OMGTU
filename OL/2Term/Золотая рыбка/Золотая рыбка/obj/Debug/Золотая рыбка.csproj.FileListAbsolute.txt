@@ -1,0 +1,7 @@
+C:\Users\motyn\OneDrive\Рабочий стол\project\Золотая рыбка\Золотая рыбка\bin\Debug\Золотая рыбка.exe.config
+C:\Users\motyn\OneDrive\Рабочий стол\project\Золотая рыбка\Золотая рыбка\bin\Debug\Золотая рыбка.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\Золотая рыбка\Золотая рыбка\bin\Debug\Золотая рыбка.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\project\Золотая рыбка\Золотая рыбка\obj\Debug\Золотая рыбка.csproj.AssemblyReference.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\Золотая рыбка\Золотая рыбка\obj\Debug\Золотая рыбка.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\Золотая рыбка\Золотая рыбка\obj\Debug\Золотая рыбка.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\Золотая рыбка\Золотая рыбка\obj\Debug\Золотая рыбка.pdb
