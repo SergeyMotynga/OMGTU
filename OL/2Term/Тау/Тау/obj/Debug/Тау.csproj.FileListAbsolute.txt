@@ -1,0 +1,7 @@
+C:\Users\СерГей\Desktop\myProject\Тау\Тау\obj\Debug\Тау.csproj.AssemblyReference.cache
+C:\Users\СерГей\Desktop\myProject\Тау\Тау\obj\Debug\Тау.csproj.CoreCompileInputs.cache
+C:\Users\СерГей\Desktop\myProject\Тау\Тау\bin\Debug\Тау.exe.config
+C:\Users\СерГей\Desktop\myProject\Тау\Тау\bin\Debug\Тау.exe
+C:\Users\СерГей\Desktop\myProject\Тау\Тау\bin\Debug\Тау.pdb
+C:\Users\СерГей\Desktop\myProject\Тау\Тау\obj\Debug\Тау.exe
+C:\Users\СерГей\Desktop\myProject\Тау\Тау\obj\Debug\Тау.pdb
