@@ -1,0 +1,7 @@
+C:\Users\motyn\OneDrive\Рабочий стол\project\set2\set2\obj\Debug\set2.csproj.AssemblyReference.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\set2\set2\obj\Debug\set2.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\set2\set2\bin\Debug\set2.exe.config
+C:\Users\motyn\OneDrive\Рабочий стол\project\set2\set2\bin\Debug\set2.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\set2\set2\bin\Debug\set2.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\project\set2\set2\obj\Debug\set2.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\set2\set2\obj\Debug\set2.pdb

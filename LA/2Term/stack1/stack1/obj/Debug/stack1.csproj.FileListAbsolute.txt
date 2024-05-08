@@ -1,0 +1,7 @@
+C:\Users\motyn\OneDrive\Рабочий стол\project\stack1\stack1\bin\Debug\stack1.exe.config
+C:\Users\motyn\OneDrive\Рабочий стол\project\stack1\stack1\bin\Debug\stack1.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\stack1\stack1\bin\Debug\stack1.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\project\stack1\stack1\obj\Debug\stack1.csproj.AssemblyReference.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\stack1\stack1\obj\Debug\stack1.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\stack1\stack1\obj\Debug\stack1.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\stack1\stack1\obj\Debug\stack1.pdb
