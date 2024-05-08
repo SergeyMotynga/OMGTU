@@ -1,0 +1,7 @@
+C:\Users\СерГей\Desktop\myProject\Обобщение\Обобщение\bin\Debug\Обобщение.exe.config
+C:\Users\СерГей\Desktop\myProject\Обобщение\Обобщение\bin\Debug\Обобщение.exe
+C:\Users\СерГей\Desktop\myProject\Обобщение\Обобщение\bin\Debug\Обобщение.pdb
+C:\Users\СерГей\Desktop\myProject\Обобщение\Обобщение\obj\Debug\Обобщение.csproj.AssemblyReference.cache
+C:\Users\СерГей\Desktop\myProject\Обобщение\Обобщение\obj\Debug\Обобщение.csproj.CoreCompileInputs.cache
+C:\Users\СерГей\Desktop\myProject\Обобщение\Обобщение\obj\Debug\Обобщение.exe
+C:\Users\СерГей\Desktop\myProject\Обобщение\Обобщение\obj\Debug\Обобщение.pdb
