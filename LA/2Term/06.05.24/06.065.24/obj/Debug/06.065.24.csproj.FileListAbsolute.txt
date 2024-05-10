@@ -1,0 +1,7 @@
+C:\Users\СерГей\Desktop\myProject\06.065.24\06.065.24\bin\Debug\06.065.24.exe.config
+C:\Users\СерГей\Desktop\myProject\06.065.24\06.065.24\bin\Debug\06.065.24.exe
+C:\Users\СерГей\Desktop\myProject\06.065.24\06.065.24\bin\Debug\06.065.24.pdb
+C:\Users\СерГей\Desktop\myProject\06.065.24\06.065.24\obj\Debug\06.065.24.csproj.AssemblyReference.cache
+C:\Users\СерГей\Desktop\myProject\06.065.24\06.065.24\obj\Debug\06.065.24.csproj.CoreCompileInputs.cache
+C:\Users\СерГей\Desktop\myProject\06.065.24\06.065.24\obj\Debug\06.065.24.exe
+C:\Users\СерГей\Desktop\myProject\06.065.24\06.065.24\obj\Debug\06.065.24.pdb
