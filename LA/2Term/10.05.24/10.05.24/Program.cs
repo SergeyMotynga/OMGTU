@@ -72,8 +72,7 @@ namespace _10._05._24
                 if (!key.Equals(""))
                 {
                     var maxPrice = PricesOfProductsByCategory[key].Max();
-                    Console.Write($"Наибольшая цена в категории {key}: {maxPrice}");
-                    Console.WriteLine();
+                    Console.WriteLine($"Наибольшая цена в категории {key}: {maxPrice}");
                 }
             }
             foreach (var key in PricesOfProductsByCategory.Keys)
@@ -87,8 +86,7 @@ namespace _10._05._24
             foreach (var key in PricesOfProductsByWarehouse.Keys)
             {
                 var minPrice = PricesOfProductsByWarehouse[key].Min();
-                Console.Write($"Наименьшая цена товара на складе {key}: {minPrice}");
-                Console.WriteLine();
+                Console.WriteLine($"Наименьшая цена товара на складе {key}: {minPrice}");
 
             }
             double sum = 0;
