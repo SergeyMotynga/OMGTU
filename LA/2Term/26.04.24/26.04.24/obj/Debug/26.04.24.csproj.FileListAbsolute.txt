@@ -1,0 +1,7 @@
+C:\Users\motyn\OneDrive\Рабочий стол\project\26.04.24\26.04.24\bin\Debug\26.04.24.exe.config
+C:\Users\motyn\OneDrive\Рабочий стол\project\26.04.24\26.04.24\bin\Debug\26.04.24.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\26.04.24\26.04.24\bin\Debug\26.04.24.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\project\26.04.24\26.04.24\obj\Debug\26.04.24.csproj.AssemblyReference.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\26.04.24\26.04.24\obj\Debug\26.04.24.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\26.04.24\26.04.24\obj\Debug\26.04.24.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\26.04.24\26.04.24\obj\Debug\26.04.24.pdb
