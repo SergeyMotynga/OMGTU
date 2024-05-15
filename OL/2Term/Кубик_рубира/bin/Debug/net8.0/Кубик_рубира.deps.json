@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Кубик_рубира/1.0.0": {
+        "runtime": {
+          "Кубик_рубира.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Кубик_рубира/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
