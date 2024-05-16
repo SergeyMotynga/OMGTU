@@ -1,0 +1,14 @@
+C:\Users\СерГей\Desktop\vscProj\RGR\bin\Debug\net8.0\RGR.exe
+C:\Users\СерГей\Desktop\vscProj\RGR\bin\Debug\net8.0\RGR.deps.json
+C:\Users\СерГей\Desktop\vscProj\RGR\bin\Debug\net8.0\RGR.runtimeconfig.json
+C:\Users\СерГей\Desktop\vscProj\RGR\bin\Debug\net8.0\RGR.dll
+C:\Users\СерГей\Desktop\vscProj\RGR\bin\Debug\net8.0\RGR.pdb
+C:\Users\СерГей\Desktop\vscProj\RGR\obj\Debug\net8.0\RGR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СерГей\Desktop\vscProj\RGR\obj\Debug\net8.0\RGR.AssemblyInfoInputs.cache
+C:\Users\СерГей\Desktop\vscProj\RGR\obj\Debug\net8.0\RGR.AssemblyInfo.cs
+C:\Users\СерГей\Desktop\vscProj\RGR\obj\Debug\net8.0\RGR.csproj.CoreCompileInputs.cache
+C:\Users\СерГей\Desktop\vscProj\RGR\obj\Debug\net8.0\RGR.dll
+C:\Users\СерГей\Desktop\vscProj\RGR\obj\Debug\net8.0\refint\RGR.dll
+C:\Users\СерГей\Desktop\vscProj\RGR\obj\Debug\net8.0\RGR.pdb
+C:\Users\СерГей\Desktop\vscProj\RGR\obj\Debug\net8.0\RGR.genruntimeconfig.cache
+C:\Users\СерГей\Desktop\vscProj\RGR\obj\Debug\net8.0\ref\RGR.dll
