@@ -55,12 +55,9 @@ namespace dfs
             for (int i = 1; i < n + 1; i++)
             {
                 string[] input = Console.ReadLine().Split(' ');
-                if (matrix[i, 0] == Convert.ToInt32(input[0]))
+                for (int j = 1; j < input.Length; j++)
                 {
-                    for (int j = 1; j < input.Length; j++)
-                    {
-                        matrix[i, Convert.ToInt32(input[j])] = 1;
-                    }
+                    matrix[Convert.ToInt32(input[0]), Convert.ToInt32(input[j])] = 1;
                 }
             }
             Console.Write("Введите из какой вершины будет поиск в глубину: ");
