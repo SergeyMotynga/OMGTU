@@ -1,69 +1,63 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dfs
+namespace Поиск_в_глубину
 {
     internal class Program
     {
-        static List<int> dfs(int[,] mat, int start)
-        {
-            List<int> visited = new List<int>();
-            Stack<int> stack = new Stack<int>();
-            visited.Add(start);
-            stack.Push(start);
-            while (visited.Count != mat.GetLength(0) - 1)
-            {
-                List<int> S = new List<int>() { 0 };
-                for (int i = 1; i < mat.GetLength(0); i++)
-                {
-                    S.Add(mat[start, i]);
-                }
-                for (int i = 1; i < S.Count; i++)
-                {
-                    if (S[i] == 1 && !visited.Contains(i))
-                    {
-                        visited.Add(i);
-                        stack.Push(i);
-                        start = i;
-                        break;
-                    }
-                    else if (i == S.Count - 1)
-                    {
-                        stack.Pop();
-                        start = stack.Peek();
-                    }
-                }
-            }
-            return visited;
-        }
         static void Main(string[] args)
         {
             Console.Write("Введите количество вершин: ");
             int n = Convert.ToInt32(Console.ReadLine());
-            int[,] matrix = new int[n + 1, n + 1];
-            for (int i = 1; i < n + 1; i++)
+            Console.WriteLine("Введите данные о графе следующим образом через enter: <Вершина> <Вершины смежные с первой>, например: A B C. Когда закончите напишите 'конец'.");
+            List<string>[] graph = new List<string>[n];
+            for (int i = 0; i < graph.Length; i++)
             {
-                matrix[0, i] = i;
-                matrix[i, 0] = i;
-            }
-            Console.WriteLine("Введите список смежностых вершин в формате: <вершина> <смежные к ней вершины (через пробел)>" +
-                "\nПример:\n1 2 3\n2 1");
-            Console.WriteLine("Ваш ответ:");
-            for (int i = 1; i < n + 1; i++)
-            {
-                string[] input = Console.ReadLine().Split(' ');
-                for (int j = 1; j < input.Length; j++)
+                graph[i] = new List<string>();
+                string input = Console.ReadLine();
+                if (input == "конец") break;
+                else
                 {
-                    matrix[Convert.ToInt32(input[0]), Convert.ToInt32(input[j])] = 1;
+                    graph[i].Add(input);
                 }
             }
-            Console.Write("Введите из какой вершины будет поиск в глубину: ");
-            int start = Convert.ToInt32(Console.ReadLine());
-            List<int> result = dfs(matrix, start);
-            for (int i = 0; i < result.Count; i++) { Console.Write($"{result[i]}, "); }
+            bool res = false;
+            bool containsOfPoints = false;
+            List<string> visited = new List<string>();
+            Console.Write("Введите вершину с которой будет поиск в глубину: ");
+            string start = Console.ReadLine();
+            string[] current = new string[graph.Length];
+            Stack<string> proccesing = new Stack<string>();
+            for (int i = 0; i < graph.Length; i++)
+            {
+                int index = 0;
+                for (int j = 0; j < graph.Length; j++)
+                {
+                    if (res == true) break;
+                    foreach (var item in graph[j])
+                    {
+                        if (item[0].Equals(start)) index = j; res = true; break;
+                    }
+                }
+                for(int j = 0; j < graph.Length; j++)
+                {
+                    current[j] = graph[index][j];
+                }
+                
+                foreach (var item in graph[index])
+                {
+                    proccesing.Push(item);
+                }
+                if (index == 0 && proccesing.Count > 0) proccesing.Pop();
+                if (index == 0 && proccesing.Count == 0) throw new InvalidOperationException("Ошибка: данная вершина не является смeжной с какой либо другой.");
+                start = proccesing.Peek();
+            }
         }
     }
 }
