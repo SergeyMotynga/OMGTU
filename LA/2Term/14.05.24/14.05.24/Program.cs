@@ -59,9 +59,9 @@ namespace _14._05._24
             var worker = from w in database where w.salary < (w.countOfProductProduced * w.pricePerUnit) select w;
             int n = worker.Count();
             Console.WriteLine("Работники, чья зарплата меньше суммы вырабатываемой ими продукции: ");
-            for(int i  = 0; i < n; i++)
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine($"{i+1}){Convert.ToString(worker.ToList()[i].numberOfWorker)}, {Convert.ToString(worker.ToList()[i].FIO)}, {Convert.ToString(worker.ToList()[i].education)}, {Convert.ToString(worker.ToList()[i].specialization)}");
+                Console.WriteLine($"{i + 1}){Convert.ToString(worker.ToList()[i].numberOfWorker)}, {Convert.ToString(worker.ToList()[i].FIO)}, {Convert.ToString(worker.ToList()[i].education)}, {Convert.ToString(worker.ToList()[i].specialization)}");
             }
             Console.WriteLine();
             var sumUnit = (from s in database select s.countOfProductProduced).Sum();
