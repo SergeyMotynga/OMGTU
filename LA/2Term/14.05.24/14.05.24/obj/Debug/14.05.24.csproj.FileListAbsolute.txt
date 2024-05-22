@@ -5,10 +5,10 @@ C:\Users\motyn\OneDrive\Рабочий стол\project\14.05.24\14.05.24\obj\De
 C:\Users\motyn\OneDrive\Рабочий стол\project\14.05.24\14.05.24\obj\Debug\14.05.24.csproj.CoreCompileInputs.cache
 C:\Users\motyn\OneDrive\Рабочий стол\project\14.05.24\14.05.24\obj\Debug\14.05.24.exe
 C:\Users\motyn\OneDrive\Рабочий стол\project\14.05.24\14.05.24\obj\Debug\14.05.24.pdb
-c:\Users\СерГей\Desktop\vscProj\OMGTU\LA\2Term\14.05.24\14.05.24\bin\Debug\14.05.24.exe.config
-c:\Users\СерГей\Desktop\vscProj\OMGTU\LA\2Term\14.05.24\14.05.24\bin\Debug\14.05.24.exe
-c:\Users\СерГей\Desktop\vscProj\OMGTU\LA\2Term\14.05.24\14.05.24\bin\Debug\14.05.24.pdb
-c:\Users\СерГей\Desktop\vscProj\OMGTU\LA\2Term\14.05.24\14.05.24\obj\Debug\14.05.24.csproj.AssemblyReference.cache
-c:\Users\СерГей\Desktop\vscProj\OMGTU\LA\2Term\14.05.24\14.05.24\obj\Debug\14.05.24.csproj.CoreCompileInputs.cache
-c:\Users\СерГей\Desktop\vscProj\OMGTU\LA\2Term\14.05.24\14.05.24\obj\Debug\14.05.24.exe
-c:\Users\СерГей\Desktop\vscProj\OMGTU\LA\2Term\14.05.24\14.05.24\obj\Debug\14.05.24.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\LA\2Term\14.05.24\14.05.24\bin\Debug\14.05.24.exe.config
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\LA\2Term\14.05.24\14.05.24\bin\Debug\14.05.24.exe
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\LA\2Term\14.05.24\14.05.24\bin\Debug\14.05.24.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\LA\2Term\14.05.24\14.05.24\obj\Debug\14.05.24.csproj.AssemblyReference.cache
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\LA\2Term\14.05.24\14.05.24\obj\Debug\14.05.24.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\LA\2Term\14.05.24\14.05.24\obj\Debug\14.05.24.exe
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\LA\2Term\14.05.24\14.05.24\obj\Debug\14.05.24.pdb
