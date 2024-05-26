@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-class TrapezoidalRule
+class TrapezoidalRule_LINQ
 {
     public static double Solve(Func<double, double> f, double a, double b, double dx)
     {
@@ -23,7 +23,7 @@ class TrapezoidalRule
     static void Main(string[] args)
     {
         Func<double, double> f = (double x) => -x * x + 9;
-        double result = TrapezoidalRule.Solve(f, -3, 3, 0.1);
+        double result = TrapezoidalRule_LINQ.Solve(f, -3, 3, 0.1);
         Console.WriteLine(result);
     }
 }
