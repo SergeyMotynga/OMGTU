@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work2\\Work2.csproj",
-      "projectName": "Work2",
-      "projectPath": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work2\\Work2.csproj",
+      "projectUniqueName": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work2\\String1\\String1.csproj",
+      "projectName": "String1",
+      "projectPath": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work2\\String1\\String1.csproj",
       "packagesPath": "C:\\Users\\СерГей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work2\\obj\\",
+      "outputPath": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work2\\String1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\СерГей\\AppData\\Roaming\\NuGet\\NuGet.Config",
