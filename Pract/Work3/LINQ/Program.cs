@@ -10,9 +10,11 @@ namespace LINQ
     {
         static void Main(string[] args)
         {
-            string jsonInput = File.ReadAllText("input.json")
+            string jsonInput = File.ReadAllText("input.json");
             JObject input = JObject.Parse(jsonInput);
-            foreach()
+            foreach(var item in input){
+                System.Console.WriteLine(item.ToString());
+            }
         }
     }
 }

@@ -16,3 +16,21 @@ C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\re
 C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.pdb
 C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.genruntimeconfig.cache
 C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\ref\LINQ.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.csproj.AssemblyReference.cache
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.AssemblyInfoInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.AssemblyInfo.cs
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.sourcelink.json
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\refint\LINQ.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\bin\Debug\net8.0\LINQ.exe
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\bin\Debug\net8.0\LINQ.deps.json
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\bin\Debug\net8.0\LINQ.runtimeconfig.json
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\bin\Debug\net8.0\LINQ.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\bin\Debug\net8.0\LINQ.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.csproj.Up2Date
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\LINQ.genruntimeconfig.cache
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\LINQ\obj\Debug\net8.0\ref\LINQ.dll
