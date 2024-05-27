@@ -9,7 +9,7 @@ class TrapezoidalRule
         if (!double.IsNormal(b)) { throw new ArgumentException("Конец интервала не является числом"); }
         if (dx < epsilon) { throw new ArgumentException("dx меньше epsilon"); }
         double result = 0;
-        int intervals = Convert.ToInt32(Math.Ceiling((b - a) / dx));
+        int intervals = Convert.ToInt32((b - a) / dx);
         for(int i = 0; i < intervals; i++){
             double x1 = a + i * dx;
             double x2 = a + (i + 1) * dx;

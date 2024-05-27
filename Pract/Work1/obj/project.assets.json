@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\СерГей\\.nuget\\packages\\": {}
+    "C:\\Users\\motyn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work1\\Work1.csproj",
+      "projectUniqueName": "C:\\Users\\motyn\\OneDrive\\Рабочий стол\\vscProj\\vscProject\\OMGTU\\Pract\\Work1\\Work1.csproj",
       "projectName": "Work1",
-      "projectPath": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work1\\Work1.csproj",
-      "packagesPath": "C:\\Users\\СерГей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work1\\obj\\",
+      "projectPath": "C:\\Users\\motyn\\OneDrive\\Рабочий стол\\vscProj\\vscProject\\OMGTU\\Pract\\Work1\\Work1.csproj",
+      "packagesPath": "C:\\Users\\motyn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\motyn\\OneDrive\\Рабочий стол\\vscProj\\vscProject\\OMGTU\\Pract\\Work1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\СерГей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\motyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
