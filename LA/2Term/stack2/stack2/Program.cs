@@ -10,7 +10,7 @@ namespace stack2
     {
         static void Main(string[] args)
         {
-            bool Return = false;
+            bool Return;
             do
             {
                 Return = false;
@@ -18,7 +18,6 @@ namespace stack2
                 string phrase = Console.ReadLine();
                 Stack<string> stack = new Stack<string>();
                 double resultOfCalculated = 0, a, b;
-                bool result = true;
                 if (phrase == "") { Console.WriteLine("Вы не ввели выражение, попробуйте заного"); Return = true; }
                 int check = 0;
                 foreach (char c in phrase)
@@ -26,7 +25,6 @@ namespace stack2
                     if (c == '+' || c == '-' || c == '*' || c == '/')
                     {
                         if (stack.Count < 2) { Console.WriteLine("Ошибка: в выражении отсутствуют элементы для вычисления, попробуйте заного"); Return = true; break; }
-                        if (check > 2) { Console.WriteLine("Ошибка: в выражении присутствует неоднозначность, вычисление невозможно, попробуйте заного"); Return = true; break; }
                         a = Convert.ToDouble(stack.Pop());
                         b = Convert.ToDouble(stack.Pop());
                         if (c == '/' && a == 0) { Console.WriteLine("Деление на 0 невозможно, попробуйте заного"); Return = true; break; }
@@ -38,7 +36,7 @@ namespace stack2
                     }
                     else
                     {
-                        if (c != ' ' || c != ')' || c != '(') stack.Push(Convert.ToString(c));
+                        if (c != ' ') stack.Push(Convert.ToString(c));
                         check++;
                     }
                 }
