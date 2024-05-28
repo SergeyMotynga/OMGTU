@@ -1,0 +1,30 @@
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.AssemblyInfoInputs.cache
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.AssemblyInfo.cs
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.csproj.CoreCompileInputs.cache
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.sourcelink.json
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\bin\Debug\net8.0\Work1.exe
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\bin\Debug\net8.0\Work1.deps.json
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\bin\Debug\net8.0\Work1.runtimeconfig.json
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\bin\Debug\net8.0\Work1.dll
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\bin\Debug\net8.0\Work1.pdb
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.dll
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\obj\Debug\net8.0\refint\Work1.dll
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.pdb
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.genruntimeconfig.cache
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work1\obj\Debug\net8.0\ref\Work1.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.AssemblyInfoInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.AssemblyInfo.cs
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.sourcelink.json
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\obj\Debug\net8.0\refint\Work1.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\bin\Debug\net8.0\Work1.exe
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\bin\Debug\net8.0\Work1.deps.json
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\bin\Debug\net8.0\Work1.runtimeconfig.json
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\bin\Debug\net8.0\Work1.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\bin\Debug\net8.0\Work1.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\obj\Debug\net8.0\Work1.genruntimeconfig.cache
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work1\obj\Debug\net8.0\ref\Work1.dll

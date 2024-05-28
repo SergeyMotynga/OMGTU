@@ -1,0 +1,30 @@
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\obj\Debug\net8.0\Work3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\obj\Debug\net8.0\Work3.AssemblyInfoInputs.cache
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\obj\Debug\net8.0\Work3.AssemblyInfo.cs
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\obj\Debug\net8.0\Work3.csproj.CoreCompileInputs.cache
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\obj\Debug\net8.0\Work3.sourcelink.json
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\bin\Debug\net8.0\Work3.exe
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\bin\Debug\net8.0\Work3.deps.json
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\bin\Debug\net8.0\Work3.runtimeconfig.json
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\bin\Debug\net8.0\Work3.dll
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\bin\Debug\net8.0\Work3.pdb
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\obj\Debug\net8.0\Work3.dll
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\obj\Debug\net8.0\refint\Work3.dll
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\obj\Debug\net8.0\Work3.pdb
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\obj\Debug\net8.0\Work3.genruntimeconfig.cache
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work3\obj\Debug\net8.0\ref\Work3.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\bin\Debug\net8.0\Work3.exe
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\bin\Debug\net8.0\Work3.deps.json
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\bin\Debug\net8.0\Work3.runtimeconfig.json
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\bin\Debug\net8.0\Work3.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\bin\Debug\net8.0\Work3.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\obj\Debug\net8.0\Work3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\obj\Debug\net8.0\Work3.AssemblyInfoInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\obj\Debug\net8.0\Work3.AssemblyInfo.cs
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\obj\Debug\net8.0\Work3.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\obj\Debug\net8.0\Work3.sourcelink.json
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\obj\Debug\net8.0\Work3.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\obj\Debug\net8.0\refint\Work3.dll
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\obj\Debug\net8.0\Work3.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\obj\Debug\net8.0\Work3.genruntimeconfig.cache
+C:\Users\motyn\OneDrive\Рабочий стол\vscProj\vscProject\OMGTU\Pract\Work3\Trap_Linq\obj\Debug\net8.0\ref\Work3.dll

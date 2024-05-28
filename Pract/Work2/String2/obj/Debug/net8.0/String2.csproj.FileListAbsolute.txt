@@ -1,0 +1,15 @@
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\obj\Debug\net8.0\String2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\obj\Debug\net8.0\String2.AssemblyInfoInputs.cache
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\obj\Debug\net8.0\String2.AssemblyInfo.cs
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\obj\Debug\net8.0\String2.csproj.CoreCompileInputs.cache
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\obj\Debug\net8.0\String2.sourcelink.json
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\bin\Debug\net8.0\String2.exe
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\bin\Debug\net8.0\String2.deps.json
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\bin\Debug\net8.0\String2.runtimeconfig.json
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\bin\Debug\net8.0\String2.dll
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\bin\Debug\net8.0\String2.pdb
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\obj\Debug\net8.0\String2.dll
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\obj\Debug\net8.0\refint\String2.dll
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\obj\Debug\net8.0\String2.pdb
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\obj\Debug\net8.0\String2.genruntimeconfig.cache
+C:\Users\СерГей\Desktop\vscProj\OMGTU\Pract\Work2\String2\obj\Debug\net8.0\ref\String2.dll
