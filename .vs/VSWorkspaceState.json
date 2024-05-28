@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DIS",
-    "\\LA\\2Term",
-    "\\LA\\2Term\\RGR_ALGO"
+    "\\DIS"
   ],
-  "SelectedNode": "\\DIS",
+  "SelectedNode": "\\DIS\\Bellman\u0060sAlgorithm.cs",
   "PreviewInSolutionExplorer": false
 }
