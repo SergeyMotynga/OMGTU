@@ -85,7 +85,7 @@ namespace RGR_ALGO
                                             "чтобы заного ввести выражение введите 2\nВаш ответ: ");
                                 choose = Convert.ToInt32(Console.ReadLine());
                                 if (choose == 2) Return1 = true;
-                                if(choose == 1) break;
+                                if (choose == 1) break;
                             }
                         }
                         while (Return1 == true);
@@ -162,6 +162,7 @@ namespace RGR_ALGO
                                 $"\nЧтобы вернуться введите 0, чтобы выйти из программы введите 1, " +
                                             "чтобы заного ввести выражение введите 2\nВаш ответ: ");
                                 choose = Convert.ToInt32(Console.ReadLine());
+                                if (choose == 2) Return2 = true;
                             }
                         }
                         while (Return2 == true);
@@ -195,6 +196,7 @@ namespace RGR_ALGO
                         Console.Clear();
                         break;
                     case 6:
+                        Console.Clear();
                         Return = false;
                         break;
                 }
