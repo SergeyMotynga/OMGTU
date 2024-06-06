@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.IO;
 using System.Linq;
 
@@ -10,21 +10,30 @@ namespace Work4
         {
             Assembly asm = Assembly.LoadFrom("core.dll");
             Console.WriteLine($"Текущая исполняемая сборка: {asm.FullName}");
-            foreach (Type type in asm.GetTypes())
+            var types = asm.GetTypes();
+            var typesClass = types.Where(t => t.IsClass && t.IsPublic).ToArray();
+            var typesInterface = types.Where(t => t.IsInterface && t.IsPublic).ToArray();
+            foreach (var type in typesClass)
             {
-                if (type.IsClass)
-                {
-                    Console.WriteLine($"Класс: {type.FullName}");
-                }
-                else Console.WriteLine($"Интерфейс: {type.FullName}");
+                Console.WriteLine($"Интерфейс: {type.FullName}");
                 foreach (MethodInfo method in type.GetMethods())
                 {
-                    Console.WriteLine($"\tМетод: {method.Name}");
-                    Console.WriteLine($"\tВозвращаемый тип: {method.ReturnType.Name}");
+                    Console.WriteLine($"\tМетод: {method.Name} Возвращаемый тип: {method.ReturnType.Name}");
                     foreach (ParameterInfo param in method.GetParameters())
                     {
-                        Console.WriteLine($"\t\t\tИмя параметра: {param.Name}");
-                        Console.WriteLine($"\t\t\t\tТип параметра: {param.ParameterType.Name}");
+                        Console.WriteLine($"\t\tИмя параметра: {param.Name} Тип параметра: {param.ParameterType.Name}");
+                    }
+                }
+            }
+            foreach (var type in typesInterface)
+            {
+                Console.WriteLine($"Интерфейс: {type.FullName}");
+                foreach (MethodInfo method in type.GetMethods())
+                {
+                    Console.WriteLine($"\tМетод: {method.Name} Возвращаемый тип: {method.ReturnType.Name}");
+                    foreach (ParameterInfo param in method.GetParameters())
+                    {
+                        Console.WriteLine($"\t\tИмя параметра: {param.Name} Тип параметра: {param.ParameterType.Name}");
                     }
                 }
             }
