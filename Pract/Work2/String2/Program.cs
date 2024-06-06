@@ -10,7 +10,7 @@ namespace String2
         {
             string[] str = { "21:35", "07:15", "19:10", "23:4", "нет", "no" };
             var pattern = new Regex(@"\b(?:[01][0-9]|2[0-3]):[0-5][0-9]\b");
-            MatchCollection matches = pattern.Matches(string.Join(" ", str.Select(x => x.ToLower())));
+            MatchCollection matches = pattern.Matches(string.Join(" ", str.Select(x => x)));
             foreach (var match in matches)
             {
                 Console.WriteLine(match);

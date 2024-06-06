@@ -6,7 +6,7 @@ namespace String3{
         static void Main(string[] args){
             var str = new string[] {"notestexample.ru","test123_-@example.com","test--@example.com", "+79230123212", "nomail"};
             var pattern = new Regex(@"([A-z0-9-_.]){2,63}@([A-z0-9-]{1,})(\.([A-z0-9-]){1,}){1,}");
-            MatchCollection matches = pattern.Matches(string.Join(" ", str.Select(x => x.ToLower())));
+            MatchCollection matches = pattern.Matches(string.Join(" ", str.Select(x => x)));
             foreach (var match in matches)
             {
                 Console.WriteLine(match);
