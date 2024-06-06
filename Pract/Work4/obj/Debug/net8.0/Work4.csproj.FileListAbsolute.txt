@@ -28,3 +28,18 @@ C:\Users\СерГей\Desktop\Repositories\OMGTU\Pract\Work4\obj\Debug\net8.0\re
 C:\Users\СерГей\Desktop\Repositories\OMGTU\Pract\Work4\obj\Debug\net8.0\Work4.pdb
 C:\Users\СерГей\Desktop\Repositories\OMGTU\Pract\Work4\obj\Debug\net8.0\Work4.genruntimeconfig.cache
 C:\Users\СерГей\Desktop\Repositories\OMGTU\Pract\Work4\obj\Debug\net8.0\ref\Work4.dll
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\bin\Debug\net8.0\Work4.exe
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\bin\Debug\net8.0\Work4.deps.json
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\bin\Debug\net8.0\Work4.runtimeconfig.json
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\bin\Debug\net8.0\Work4.dll
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\bin\Debug\net8.0\Work4.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\obj\Debug\net8.0\Work4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\obj\Debug\net8.0\Work4.AssemblyInfoInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\obj\Debug\net8.0\Work4.AssemblyInfo.cs
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\obj\Debug\net8.0\Work4.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\obj\Debug\net8.0\Work4.sourcelink.json
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\obj\Debug\net8.0\Work4.dll
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\obj\Debug\net8.0\refint\Work4.dll
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\obj\Debug\net8.0\Work4.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\obj\Debug\net8.0\Work4.genruntimeconfig.cache
+C:\Users\motyn\OneDrive\Рабочий стол\OMGTU\Pract\Work4\obj\Debug\net8.0\ref\Work4.dll
