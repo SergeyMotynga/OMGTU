@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work2\\String3\\String3.csproj",
+      "projectUniqueName": "C:\\Users\\СерГей\\Documents\\GitHub\\OMGTU\\Pract\\Work2\\String3\\String3.csproj",
       "projectName": "String3",
-      "projectPath": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work2\\String3\\String3.csproj",
+      "projectPath": "C:\\Users\\СерГей\\Documents\\GitHub\\OMGTU\\Pract\\Work2\\String3\\String3.csproj",
       "packagesPath": "C:\\Users\\СерГей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\СерГей\\Desktop\\vscProj\\OMGTU\\Pract\\Work2\\String3\\obj\\",
+      "outputPath": "C:\\Users\\СерГей\\Documents\\GitHub\\OMGTU\\Pract\\Work2\\String3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\СерГей\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
