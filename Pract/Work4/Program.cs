@@ -20,7 +20,7 @@ namespace Work4
                 foreach (MethodInfo method in type.GetMethods())
                 {
                     Console.WriteLine($"\tМетод: {method.Name}");
-                    Console.WriteLine($"\t\tВозвращаемый тип: {method.ReturnType.Name}");
+                    Console.WriteLine($"\tВозвращаемый тип: {method.ReturnType.Name}");
                     foreach (ParameterInfo param in method.GetParameters())
                     {
                         Console.WriteLine($"\t\t\tИмя параметра: {param.Name}");
