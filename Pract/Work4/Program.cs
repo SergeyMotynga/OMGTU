@@ -15,7 +15,7 @@ namespace Work4
             var typesInterface = types.Where(t => t.IsInterface && t.IsPublic).ToArray();
             foreach (var type in typesClass)
             {
-                Console.WriteLine($"Интерфейс: {type.FullName}");
+                Console.WriteLine($"Класс: {type.FullName}");
                 foreach (MethodInfo method in type.GetMethods())
                 {
                     Console.WriteLine($"\tМетод: {method.Name} Возвращаемый тип: {method.ReturnType.Name}");
