@@ -7,9 +7,9 @@ namespace String3
     {
         static void Main(string[] args)
         {
-            var str = new string[]{"notestexample@as.r","-noest123@example.com.com","test--@example.com", "+79230123212",
+            var str = new string[]{"testexample@as.r.r","-notest123@example.com","test--@example.com", "+79230123212",
             "nomail", "Test.123askk.as.12.a@example.com"};
-            var pattern = new Regex(@"(?<=\s|^)[a-zA-Z0-9][a-zA-Z0-9._%+-]*@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(?=\s|$)");
+            var pattern = new Regex(@"(?<=\s|^)[A-z0-9][A-z0-9-_.]*@[A-z0-9-]{2,}(\.([A-z0-9-])*)+(?=\s|$)");
             MatchCollection matches = pattern.Matches(string.Join(" ", str.Select(x => x)));
             foreach (var match in matches)
             {
