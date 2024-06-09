@@ -1,0 +1,7 @@
+C:\Users\motyn\OneDrive\Рабочий стол\project\Мойка машин\Мойка машин\bin\Debug\Мойка машин.exe.config
+C:\Users\motyn\OneDrive\Рабочий стол\project\Мойка машин\Мойка машин\bin\Debug\Мойка машин.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\Мойка машин\Мойка машин\bin\Debug\Мойка машин.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\project\Мойка машин\Мойка машин\obj\Debug\Мойка машин.csproj.AssemblyReference.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\Мойка машин\Мойка машин\obj\Debug\Мойка машин.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\Мойка машин\Мойка машин\obj\Debug\Мойка машин.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\Мойка машин\Мойка машин\obj\Debug\Мойка машин.pdb
