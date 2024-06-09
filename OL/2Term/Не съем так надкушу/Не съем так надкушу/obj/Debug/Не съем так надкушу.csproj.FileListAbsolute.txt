@@ -1,0 +1,7 @@
+C:\Users\motyn\OneDrive\Рабочий стол\project\Не съем так надкушу\Не съем так надкушу\bin\Debug\Не съем так надкушу.exe.config
+C:\Users\motyn\OneDrive\Рабочий стол\project\Не съем так надкушу\Не съем так надкушу\bin\Debug\Не съем так надкушу.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\Не съем так надкушу\Не съем так надкушу\bin\Debug\Не съем так надкушу.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\project\Не съем так надкушу\Не съем так надкушу\obj\Debug\Не съем так надкушу.csproj.AssemblyReference.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\Не съем так надкушу\Не съем так надкушу\obj\Debug\Не съем так надкушу.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\Не съем так надкушу\Не съем так надкушу\obj\Debug\Не съем так надкушу.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\Не съем так надкушу\Не съем так надкушу\obj\Debug\Не съем так надкушу.pdb
