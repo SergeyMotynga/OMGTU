@@ -1,0 +1,7 @@
+C:\Users\motyn\OneDrive\Рабочий стол\project\Города\Города\bin\Debug\Города.exe.config
+C:\Users\motyn\OneDrive\Рабочий стол\project\Города\Города\bin\Debug\Города.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\Города\Города\bin\Debug\Города.pdb
+C:\Users\motyn\OneDrive\Рабочий стол\project\Города\Города\obj\Debug\Города.csproj.AssemblyReference.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\Города\Города\obj\Debug\Города.csproj.CoreCompileInputs.cache
+C:\Users\motyn\OneDrive\Рабочий стол\project\Города\Города\obj\Debug\Города.exe
+C:\Users\motyn\OneDrive\Рабочий стол\project\Города\Города\obj\Debug\Города.pdb
